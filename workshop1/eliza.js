@@ -225,6 +225,11 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x love ~*y": [
+  	"Love is meaningless",
+  	"Love is for children",
+  	"aww that is adorable",
+  ],
 };
 
 var default_responses = [
