@@ -215,6 +215,9 @@ var rules = {
     "What incident are you thinking of?",
     "Really--always?",
   ],
+  "~*x what is Woanjun's poem ~*y": [
+  	"Title : Togetherness is Definitely Achievable",
+  ],
   "~*x what ~*y": [
     "Why do you ask?",
     "Does that question interest you?",
